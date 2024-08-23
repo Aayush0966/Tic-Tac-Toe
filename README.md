@@ -10,6 +10,13 @@ A classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. This pro
 - [How to Play](#how-to-play)
 
 
+## Demo
+
+Here’s a live demo of the Tic Tac Toe game:
+
+![Rock-Paper-Scissors Game](https://aayush0966.github.io/Tic-Tac-Toe/)
+
+
 ## Features
 
 - **Interactive Gameplay**: A two-player game that runs entirely in the browser, with real-time updates and a responsive interface.
